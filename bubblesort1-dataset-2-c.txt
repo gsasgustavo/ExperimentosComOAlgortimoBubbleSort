@@ -1,0 +1,5 @@
+Quantidade de comparações: 100010000
+Quantidade de trocas: 25036795
+Tempo de execução: 32764.635
+Consumo de CPU: 33.109375
+Consumo de memória: 0.001870848
